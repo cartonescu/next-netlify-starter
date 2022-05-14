@@ -20,6 +20,7 @@ export default function Home() {
     <a href="https://amclightpack.ro">Sc Amc Light Pack SRL</a>
     <a href="https://www.cartonescu.ro">www.cartonescu.ro</a>
     
+    <p className="description">
     Compania AMC Light Pack SRL a fost concepută ca un magazin care activează în mediul online și este dedicată ambalejelor și produselor 
     destinate pregătirii și împachetarii coletelor.
 
@@ -40,7 +41,7 @@ Preferințele consumatorilor se îndreaptă acum către cumpărăturile online. 
 AMC Light Pack SRL este un furnizor local de produse de ambalare, capabil să susțină nevoile imediate ale clienților săi. Lucrând cu stocuri proprii, 
     acesta poate să fie flexibil și să se adapteze oricărui tip de client, companie sau utilizator casnic. AMC Light Pack poate să livreze în întreaga 
     țară în 24/48 de ore de la plasarea comenzii ferme, expedierea făcându-se din depozitul propriu din București. 
-
+</p>
   
     
     
