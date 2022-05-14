@@ -18,6 +18,7 @@ export default function Home() {
           <code>Cutii de carton ieftine, Cutii carton cu autoformare, cumpara folie cu bule ieftina, banda adeziva, folie stretch</code>
         </p>
     <a href="https://amclightpack.ro">Sc Amc Light Pack SRL</a>
+    <a href="https://www.cartonescu.ro">www.cartonescu.ro</a>
       </main>
 
       <Footer />
